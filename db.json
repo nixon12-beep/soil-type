@@ -1,10 +1,8 @@
-{
-  "Type" : {
-    "Clay " : 180,
-    "Clay loam " : 140,
-    "Loam " : 210,
-    "Sand " : 80,
-    "Sandy loam " : 150,
-    "Silty clay " : 170
-  }
+  {
+  "Clay " : 180,
+  "Clay loam " : 140,
+  "Loam " : 210,
+  "Sand " : 80,
+  "Sandy loam " : 150,
+  "Silty clay " : 170
 }
