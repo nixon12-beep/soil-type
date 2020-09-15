@@ -1,0 +1,10 @@
+{
+  "soil":{
+    "Clay": 180,
+    "Clayloam": 140,
+    "Loam": 210,
+    "Sand": 80,
+    "Sandyloam": 150,
+    "Siltyclay": 170
+  }  
+}
